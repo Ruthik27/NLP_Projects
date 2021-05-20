@@ -12,6 +12,8 @@ https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
 
 https://github.com/shivamms/books/blob/master/nlp/Foundations%20of%20Statistical%20Natural%20Language%20Processing%20-%20Christopher%20D.%20Manning.pdf
 
+>Libraries :
+>
 >NLTK
 >
 >spaCy
