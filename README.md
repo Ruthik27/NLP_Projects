@@ -20,8 +20,10 @@ https://github.com/shivamms/books/blob/master/nlp/Foundations%20of%20Statistical
 >
 >Gensim
 >
->Pattern
+>newly added csv files included as :
+>twitter sentiment analysis
 >
+>Pattern
 >TextBolb
 >
 Sentiment Analysis
