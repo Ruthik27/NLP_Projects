@@ -1,0 +1,4 @@
+pymongo
+gunicorn
+Flask
+googlemaps
